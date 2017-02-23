@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BeautyShow</string>
+    <string name="relax_your_eye">relax</string>
+    <string name="open_your_eye">open</string>
 </resources>
